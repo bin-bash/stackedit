@@ -7,7 +7,7 @@ input[disabled],
 select[disabled],
 textarea[disabled],
 .input-prepend .add-on {
-  background-color: #f1f2f6;
+  background-color: #f1f2a6;
 }
 
 .navbar-inner {
